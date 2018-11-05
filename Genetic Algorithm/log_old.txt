@@ -1,0 +1,53 @@
+09/17/2018 02:13:47 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:13:47 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:14:42 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:14:42 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:15:27 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:15:27 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:18:43 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:18:43 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:18:58 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:18:58 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:19:11 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:19:11 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:21:06 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:21:06 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:22:34 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:22:34 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:25:50 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:25:50 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:26:06 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:26:06 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:31:33 PM - INFO - ***Evolving 10 generations with population 20***
+09/17/2018 02:31:33 PM - INFO - ***Doing generation 1 of 10***
+09/17/2018 02:32:09 PM - INFO - ***Evolving 5 generations with population 8***
+09/17/2018 02:32:09 PM - INFO - ***Doing generation 1 of 5***
+09/17/2018 02:33:51 PM - INFO - ***Evolving 5 generations with population 8***
+09/17/2018 02:33:51 PM - INFO - ***Doing generation 1 of 5***
+09/17/2018 02:34:40 PM - INFO - ***Evolving 5 generations with population 8***
+09/17/2018 02:34:40 PM - INFO - ***Doing generation 1 of 5***
+09/17/2018 02:41:13 PM - INFO - Generation average: 87.86%
+09/17/2018 02:41:13 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:41:13 PM - INFO - ***Doing generation 2 of 5***
+09/17/2018 02:45:42 PM - INFO - Generation average: 87.49%
+09/17/2018 02:45:42 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:45:42 PM - INFO - ***Doing generation 3 of 5***
+09/17/2018 02:48:48 PM - INFO - Generation average: 88.85%
+09/17/2018 02:48:48 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:48:48 PM - INFO - ***Doing generation 4 of 5***
+09/17/2018 02:51:36 PM - INFO - Generation average: 88.98%
+09/17/2018 02:51:36 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:51:36 PM - INFO - ***Doing generation 5 of 5***
+09/17/2018 02:55:36 PM - INFO - Generation average: 89.02%
+09/17/2018 02:55:36 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:55:36 PM - INFO - --------------------------------------------------------------------------------
+09/17/2018 02:55:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+09/17/2018 02:55:36 PM - INFO - Network accuracy: 89.27%
+09/17/2018 02:55:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+09/17/2018 02:55:36 PM - INFO - Network accuracy: 89.25%
+09/17/2018 02:55:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+09/17/2018 02:55:36 PM - INFO - Network accuracy: 89.19%
+09/17/2018 02:55:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+09/17/2018 02:55:36 PM - INFO - Network accuracy: 89.09%
+09/17/2018 02:55:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+09/17/2018 02:55:36 PM - INFO - Network accuracy: 89.03%

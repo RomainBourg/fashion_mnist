@@ -1,0 +1,31 @@
+11/04/2018 01:48:58 AM - INFO - ***Evolving 5 generations with population 20***
+11/04/2018 01:48:58 AM - INFO - ***Doing generation 1 of 5***
+11/04/2018 01:49:23 AM - INFO - ***Evolving 5 generations with population 20***
+11/04/2018 01:49:23 AM - INFO - ***Doing generation 1 of 5***
+11/04/2018 01:49:52 AM - INFO - ***Evolving 5 generations with population 20***
+11/04/2018 01:49:52 AM - INFO - ***Doing generation 1 of 5***
+11/04/2018 05:04:04 AM - INFO - Generation average: 79.75%
+11/04/2018 05:04:04 AM - INFO - --------------------------------------------------------------------------------
+11/04/2018 05:04:04 AM - INFO - --------------------------------------------------------------------------------
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 93.03%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 32, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.96%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 32, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.95%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.84%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.73%
+11/04/2018 05:04:04 AM - INFO - --------------------------------------------------------------------------------
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 93.03%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 32, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.96%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 32, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.95%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.84%
+11/04/2018 05:04:04 AM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+11/04/2018 05:04:04 AM - INFO - Network accuracy: 92.73%
+11/04/2018 05:04:04 AM - INFO - ***Doing generation 2 of 5***
