@@ -4,6 +4,7 @@ from keras.layers import Dense, Dropout, Conv2D, MaxPool2D, Flatten
 from keras.utils.np_utils import to_categorical
 from keras.datasets import fashion_mnist
 import numpy
+from keras import backend as K
 
 def get_fashion_mnist():
     # Set defaults.
